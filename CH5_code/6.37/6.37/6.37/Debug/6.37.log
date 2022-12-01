@@ -1,0 +1,4 @@
+﻿  6.37.c
+c:\users\aa097\onedrive\桌面\程式設計\hw5\ch5_code\6.37\6.37\6.37\6.37.c(12): warning C4047: '函式': 'int *' 與 'int (*)[5]' 間接取值的層級不同
+c:\users\aa097\onedrive\桌面\程式設計\hw5\ch5_code\6.37\6.37\6.37\6.37.c(12): warning C4024: 'recursiveMaximum': 型式和實質參數 1 不同的類型
+  6.37.vcxproj -> C:\Users\Aa097\OneDrive\桌面\程式設計\HW5\CH5_code\6.37\6.37\Debug\6.37.exe
